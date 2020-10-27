@@ -8,4 +8,4 @@
    1. Copy the repository URL at the top of your browser.
    2. Then visit https://nbviewer.jupyter.org/
    3. Next paste the copied URL into nbviewer and press "Go!"
-   4. After that you may choose the notebook you wish to view under the "Notebooks" section.
+   4. After that you may choose the notebook you wish to view.
